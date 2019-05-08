@@ -1,8 +1,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-# awesome-aws-security
+# Awesome AWS Security
 
-This is a list of open source projects that will help improve your AWS security posture.
+A carefully curated list of open source projects aimed at improving your AWS security posture.
 
 ## Contents
 
