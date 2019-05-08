@@ -1,8 +1,16 @@
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+ 
 
-# Awesome AWS Security
+# Awesome AWS Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A carefully curated list of open source projects aimed at improving your AWS security posture.
+A carefully curated list of open source projects aimed at improving your AWS security posture!
+
+---
+
+I would love as much help as I can get. [Start contributing!](https://github.com/C8H10N4OO/awesome-aws-security/blob/master/contributing.md)
+
+Follow me on [Twitter](https://twitter.com/coffeewithayman) for more security goodness.
+
+---
 
 ## Contents
 
