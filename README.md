@@ -8,6 +8,8 @@ This is a list of open source projects that will help improve your AWS security 
 
 - [Vulnerable AWS](#Vulnerable-AWS)
 - [Security Audit and Mapping Tools](#Security-Audit-and-Mapping-Tools)
+- [Security Testing Tools](#Security-Testing-Tools)
+- [Enabling Cloud Security Tools](#Enabling-Cloud-Security-Tools)
 
 ## Vulnerable AWS
 
