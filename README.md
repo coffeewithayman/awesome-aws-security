@@ -35,3 +35,9 @@ https://github.com/hashicorp/vault
 https://github.com/99designs/aws-vault
 
 https://github.com/cloud-custodian/cloud-custodian
+
+https://github.com/airbnb/streamalert
+
+https://github.com/segmentio/netsec
+
+https://github.com/segmentio/aws-okta
