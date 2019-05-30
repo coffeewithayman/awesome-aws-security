@@ -44,6 +44,8 @@ A collection of tools to help you understand more about your AWS environment.
 
 ## Security Testing Tools
 
+A collection of tools to test your AWS environment.
+
 [Pacu](https://github.com/RhinoSecurityLabs/pacu) - Pacu is an open source AWS exploitation framework, designed for offensive security testing against cloud environments. 
 
 [Chaos Monkey](https://github.com/netflix/chaosmonkey) - Chaos Monkey randomly terminates virtual machine instances and containers that run inside of your production environment.
