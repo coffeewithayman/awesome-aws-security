@@ -19,7 +19,7 @@ Follow me on [Twitter](https://twitter.com/coffeewithayman) for more security go
 - [Security Testing Tools](#Security-Testing-Tools)
 - [Enabling Cloud Security Tools](#Enabling-Cloud-Security-Tools)
 
-## Vulnerable AWS
+## Learn AWS Security
 
 A collection of tools to help you learn AWS security.
 
@@ -49,7 +49,7 @@ A collection of tools to help you understand more about your AWS environment.
 [Chaos Monkey](https://github.com/netflix/chaosmonkey) - Chaos Monkey randomly terminates virtual machine instances and containers that run inside of your production environment.
 
 
-## Enabling Cloud Security Tools
+## Security Enabling Tools
 
 A collection of tools to help you enforce security on your AWS accounts.
 
@@ -64,6 +64,12 @@ A collection of tools to help you enforce security on your AWS accounts.
 [netsec](https://github.com/segmentio/netsec) - Home of code related to security of network systems.
 
 [aws-okta](https://github.com/segmentio/aws-okta) - allows you to authenticate with AWS using your Okta credentials
+
+[S3 VirusScan](https://github.com/widdix/aws-s3-virusscan) - Antivirus for S3 buckets. You can connect as many buckets as you like by using S3 Event Notifications
+
+[Manage AWS EC2 SSH access with IAM](https://github.com/widdix/aws-ec2-ssh) - Use your IAM user's public SSH key to get access via SSH to an EC2 instance running (see note)
+
+
 
 
 ## License
