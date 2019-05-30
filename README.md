@@ -14,10 +14,10 @@ Follow me on [Twitter](https://twitter.com/coffeewithayman) for more security go
 
 ## Contents
 
-- [Vulnerable AWS](#Vulnerable-AWS)
+- [Learn AWS Security](#Learn-AWS-Security)
 - [Security Audit and Mapping Tools](#Security-Audit-and-Mapping-Tools)
 - [Security Testing Tools](#Security-Testing-Tools)
-- [Enabling Cloud Security Tools](#Enabling-Cloud-Security-Tools)
+- [Security Enabling Tools](#Security-Enabling-Tools)
 
 ## Learn AWS Security
 
