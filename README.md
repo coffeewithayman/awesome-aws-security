@@ -59,6 +59,8 @@ A collection of tools to help you enforce security on your AWS accounts.
 
 [AWS Vault](https://github.com/99designs/aws-vault) - Securely store and access credentials for AWS.
 
+[AWS Firewall Factory](https://github.com/globaldatanet/aws-firewall-factory) - Deploy, update, and stage your WAFs while managing them centrally via FMS.
+
 [Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian) - Cloud Custodian is a rules engine for managing public cloud accounts and resources.
 
 [Stream Alert](https://github.com/airbnb/streamalert)- StreamAlert is a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define.
